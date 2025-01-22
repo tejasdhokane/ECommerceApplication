@@ -22,4 +22,8 @@
                with security measures like data protection, input validation, and secure authentication. The application ensures a scalable and maintainable architecture 
                for managing online retail operations.
 
+*OUTPUT : 
 
+![Image](https://github.com/user-attachments/assets/ad34fc10-f842-43ef-84c6-147fafc3a0ce)
+![Image](https://github.com/user-attachments/assets/61d2bd25-e1ea-45f4-bf8a-0e2d0a00fa1c)
+![Image](https://github.com/user-attachments/assets/72b56ee7-3954-4198-b1b5-bd73903714a5)
